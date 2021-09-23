@@ -1,1 +1,10 @@
 build/
+.vscode
+
+node_modules
+
+sivako_django/posts/__pycache__
+sivako_django/db.sqlite3
+sivako_django/posts/migrations
+
+sivako_django/sivako_django/__pycache__
